@@ -133,7 +133,6 @@ main{
     padding: 24px 0 32px 0;
 }
 
-
 /* lovely features styles */
 .lovely-feature{
     display: flex;
@@ -278,6 +277,7 @@ main{
     padding: 24px 0;
     margin: 0 auto; 
 }
+
 /* sponsors styles */
 .sponsors{
     padding: 0 12% 0 12%;
